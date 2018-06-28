@@ -21,7 +21,7 @@ With the repository data saved to your local working directory, open the R scrip
 
 The code in the model consists of two parts. In part 1, we read in **SLR_Model_Inputs.csv**, **Hypsometry.csv**, and **Zbreaks_Archetypes.csv**, then extract the input data that we need to make intermediate calculations (changes in elevation and water level) that get fed into part 2. Part 2 consists of a loop, where we go through our list of sites from the input data one at a time. This is where we manipulate the site-specific hypsometric curve and the water levels delimiting marsh zones in order to mimic changes caused by accretion, tidal inlet dynamics and sea level rise. Based on the site-specific hypsometric curve, the model calculates the amount of area for each marsh zone under current conditions and 2 future SLR scenarios: 0.6 m by 2050 and 1.7 m by 2100. The area calculations are then saved to the output directory as a subfolder for each site.
 
-To run the model script, ensure your working directory and output directory are correct, select the entire script `cntl+a` and click `run`.
+To run the model script in R studio, ensure your working directory and output directory are correct, select the entire script `cntl+a` and click `run`.
 
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:

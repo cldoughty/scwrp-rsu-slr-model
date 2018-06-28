@@ -1,0 +1,106 @@
+Site_Name,N to S,ArchetypeCode,Archetype,Armored_mouth,Engineered_channel,Area.km2,Marsh_system,HistoricalArchetypeCode,HistoricalArchetype,Subregion,Perch.Correction,SLR_2050_mmyr,SLR_2050_mmyr_error,SLR_2100_mmyr,SLR_2100_mmyr_error,SLR_UncertaintyScore,VLM_2100_mmyr,VLM_2100_SD,VLM_UncertaintyScore,Accretion_mmyr,Accretion_mmyr_error,Accretion_mmyr_Perc.error,Accretion_method,Accretion_UncertaintyScore,MD_WL_2050,MD_WL_2050_error,MD_WL_2050_Perc.error,MD_WL_2100,MD_WL_2100_error,MD_UncertaintyScore
+AguaHedionda,93,4,Large perenially-open lagoon,Y,N,1.56767,Agua Hedionda Lagoon,4,Large perenially-open lagoon,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+AlamitosBay,59,6,Fragmented river valley estuary,Y,Y,1.89355,Alamitos Bay,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+AlisoCreek,75,1,Small creek,N,N,0.0100448,Aliso Creek,1,Small creek,San Pedro Bay,3.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.215,0.12,55.81395349,0.69,0.12,2
+AlisoCynCreek,84,1,Small creek,N,N,0.113795,Aliso Canyon,1,Small creek,San Diego Coast,2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+AnaheimBay,63,4,Large perenially-open lagoon,Y,N,4.23141,Seal Beach,4,Large perenially-open lagoon,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.4,0.2,14.28571429,Measured,1,0,0,NA,0,0,2
+AndreeClarkBirdRefuge_OVERWRITE,23,2,Small lagoon,N,N,0.12652,Andree Clark Bird Refugee,1,Small creek,Gaviota Coast,2.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.23,53.48837209,1.55,0.21,2
+ArroyoBurroCreekEstuary,19,1,Small creek,N,N,0.0045929,Arroyo Burro Creek Estuary,1,Small creek,Gaviota Coast,1.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,7.11,113.2165605,Extrapolated,2,0.215,0.12,57.14285714,0.69,0.12,2
+ArroyoParedonCreek,24,1,Small creek,N,Y,0.0014204,Arroyo Paredon Creek,1,Small creek,Gaviota Coast,1.5,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.215,0.12,55.81395349,0.69,0.12,2
+ArroyoQuemado,9,1,Small creek,N,N,0.0003851,Arroyo Quemado,1,Small creek,Gaviota Coast,1.9,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+ArroyoSanAugustin,2,1,Small creek,N,N,0.0007613,Arroyo San Augustin,1,Small creek,Gaviota Coast,1.8,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+BallonaCreek,47,6,Fragmented river valley estuary,Y,Y,0.335915,Ballona Wetlands,3,Intermittently open estuary,Santa Monica Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+BallonaLagoon,46,6,Fragmented river valley estuary,N,Y,0.0715933,Ballona Wetlands,3,Intermittently open estuary,Santa Monica Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+BallonaWetlandsFinal,48,6,Fragmented river valley estuary,Y,N,0.688653,Ballona Wetlands,3,Intermittently open estuary,Santa Monica Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,0.72,52.17391304,Measured,1,0,0,NA,0,0,2
+BatiquitosLagoon,94,4,Large perenially-open lagoon,Y,N,2.2546799,Batiquitos Lagoon,4,Large perenially-open lagoon,San Diego Coast,0.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+BellCanyonCreek,15,1,Small creek,N,N,0.0104918,Bell Canyon Creek,1,Small creek,Gaviota Coast,1.1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+BolsaBay,67,4,Large perenially-open lagoon,Y,N,0.654595,Bolsa Chica,4,Large perenially-open lagoon,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+BolsaChicaChannel,65,1,Small creek,N,Y,0.115421,Bolsa Chica,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+BolsaChicaFullyTidal,68,4,Large perenially-open lagoon,Y,N,1.71417,Bolsa Chica,4,Large perenially-open lagoon,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+BuenaVistaLagoon_DELETE,92,4,Large perenially-open lagoon,N,N,0.937677,Buena Vista Lagoon,4,Large perenially-open lagoon,San Diego Coast,1.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0.21,0.12,57.14285714,0.69,0.12,2
+Bulito_NEW,3,1,Small creek,N,N,0.0010041,Bultio,1,Small creek,Gaviota Coast,2.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+CabrilloMarina,51,7,Open bay/harbor,Y,N,0.0107606,NA,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+CalleRealGaviota_NEW,10,2,Small lagoon,N,N,0.0004313,Calle Real Gaviota,1,Small creek,Gaviota Coast,2.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,55.81395349,0,0,2
+CaminoCapistrano_NEW,79,1,Small creek,N,Y,0.0008646,Camino Capistrano,1,Small creek,San Diego Coast,2.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2
+CarpinteriaSaltMarsh,25,3,Intermittently open estuary,N,Y,0.855222,Carpenteria,3,Intermittently open estuary,Gaviota Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3,0,0,Measured,1,0,0,NA,0,0,2
+CarpinteriaSouth_NEW,26,1,Small creek,N,N,0.0074547,Carpenteria,1,Small creek,Gaviota Coast,3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,7.11,113.2165605,Extrapolated,2,0.43,0.24,57.14285714,1.38,0.24,2
+Cojo_NEW,1,1,Small creek,N,N,0.0021115,NA,1,Small creek,Gaviota Coast,3.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+CorralCanyon_NEW,40,1,Small creek,N,N,0.0010343,Corral Canyon,1,Small creek,Santa Monica Bay,5.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.215,0.12,55.81395349,0.69,0.12,2
+CrystalCove,74,1,Small creek,N,Y,0.0005475,Crystal Cove,1,Small creek,San Pedro Bay,2.3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2
+DanaPointHarbor,77,7,Open bay/harbor,Y,N,0.642159,NA,NA,NA,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+DelReyLagoon,49,6,Fragmented river valley estuary,N,N,0.0230318,Ballona Wetlands,3,Intermittently open estuary,Santa Monica Bay,0.8,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+DevereuxLagoon_NEW,16,4,Large perenially-open lagoon,N,N,0.235876,Devereux Lagoon,4,Large perenially-open lagoon,Gaviota Coast,3.3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0.42,0.24,57.14285714,1.38,0.24,2
+DominguezChannel,53,3,Intermittently open estuary,Y,Y,0.154291,NA,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+DumeLagoon,39,1,Small creek,N,N,0.0175926,Zuma Lagoon,1,Small creek,Santa Monica Bay,1.3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,53.48837209,1.38,0.24,2
+EagleCyn_NEW,13,1,Small creek,N,N,0.0032207,Eagle Canyon,1,Small creek,Gaviota Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+ElCapitanSmall_NEW,12,1,Small creek,N,N,0.002455,El Capitan Small,1,Small creek,Gaviota Coast,2.8,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.215,0.12,55.81395349,0.69,0.12,2
+FrenchLagoon,85,2,Small lagoon,N,N,0.0836471,French Lagoon,2,Small lagoon,San Diego Coast,2.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,7.11,113.2165605,Extrapolated,2,0.43,0.23,57.14285714,1.55,0.21,2
+Gaviota_NEW,8,3,Intermittently open estuary,N,N,0.0114299,La Gaviota,3,Intermittently open estuary,Gaviota Coast,3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0.21,0.12,57.14285714,0.705,0.12,2
+GoletaSlough,18,5,Large river valley estuary,N,Y,0.677915,Goleta,5,Large river valley estuary,Gaviota Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3,0,0,Measured,1,0,0,NA,0,0,2
+HollisterRanch_NEW,7,1,Small creek,N,N,0.0006851,Hollister Ranch,1,Small creek,Gaviota Coast,2.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+HuntingtonHarbor,64,7,Open bay/harbor,Y,Y,1.17434,Seal Beach,4,Large perenially-open lagoon,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+KendallFrostRoseCreek,98,3,Intermittently open estuary,N,N,0.375712,MissionBay,7,Open bay/harbor,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+LasFloresCanyonLA_NEW,42,1,Small creek,N,N,0.0007511,Las Flores Canyon LA,1,Small creek,Santa Monica Bay,3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+LasFloresCreek,83,1,Small creek,N,N,0.0603684,Las Flores Creek,1,Small creek,San Diego Coast,1.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+LasPulgasCanyon,82,2,Small lagoon,N,N,0.0223224,Las Pulgas Canyon,NA,NA,San Diego Coast,2.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.23,53.48837209,1.55,0.21,2
+LeoCarrillo_NEW,37,1,Small creek,N,N,0.0014967,Leo Carillo,1,Small creek,Santa Monica Bay,2.1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+LomaAltaSlough,91,1,Small creek,N,Y,0.0101028,Loma Alta Slough,4,Large perenially-open lagoon,San Diego Coast,0.9,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+LongBeachHarbor1,55,7,Open bay/harbor,Y,N,3.6723599,NA,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+LongBeachHarbor2,56,7,Open bay/harbor,Y,N,0.960182,NA,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+LongBeachHarbor3,57,7,Open bay/harbor,Y,N,0.352469,NA,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+LongBeachMarina,58,7,Open bay/harbor,Y,N,0.332631,NA,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+LosAngelesHarbor,52,7,Open bay/harbor,Y,Y,7.5128498,Los Angeles River,NA,NA,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+LosAngelesRiver,54,6,Fragmented river valley estuary,Y,Y,1.50915,Los Angeles River,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+LosCerritosChannel,61,6,Fragmented river valley estuary,Y,Y,0.186441,Alamitos Bay,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,NA,NA,No Data,3,0,0,NA,0,0,2
+LosCerritosWetlands,60,6,Fragmented river valley estuary,Y,Y,0.90063,Alamitos Bay,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+LosPenasquitos,97,5,Large river valley estuary,N,N,1.88474,Los Penasquitos Lagoon,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0.95,0,0,Measured,1,0,0,NA,0,0,2
+MalibuCreek,41,3,Intermittently open estuary,N,N,0.120816,Malibu Creek,3,Intermittently open estuary,Santa Monica Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0.21,0.12,57.14285714,0.705,0.12,2
+Mandalay,33,1,Small creek,Y,Y,0.0020867,Ormond Beach ,NA,NA,Ventura Coast,1.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2
+MarinaDelRey,45,7,Open bay/harbor,Y,N,1.66939,Ballona Wetlands,3,Intermittently open estuary,Santa Monica Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+McGrathLake,32,6,Fragmented river valley estuary,N,N,0.0464896,Santa Clara  River,5,Large river valley estuary,Ventura Coast,5.3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,7.11,113.2165605,Extrapolated,2,0,0,57.14285714,0,0,2
+MissionBay,99,7,Open bay/harbor,Y,N,8.8517599,Mission Bay,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,0,0,Measured,1,0,0,NA,0,0,2
+MissionCreekLagoon,21,1,Small creek,N,Y,0.0240251,Mission Creek,3,Intermittently open estuary,Gaviota Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+MonarchCove_NEW,76,1,Small creek,N,Y,0.0031738,Monarch Cove,1,Small creek,San Pedro Bay,3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2
+MuguLagoon,35,6,Fragmented river valley estuary,N,Y,8.8549099,Ormond Beach,5,Large river valley estuary,Ventura Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,12,5.22,43.5,Measured,1,0,0,NA,0,0,2
+MuguLagoonCalleguas,36,1,Small creek,N,N,0.0020157,Mugu Lagoon Calleguas,1,Small creek,Ventura Coast,1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2
+NewportHarbor,72,7,Open bay/harbor,Y,Y,6.7009702,Newport Bay,3,Intermittently open estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,4.52,161.4285714,Measured,1,0,0,NA,0,0,2
+UpperNewportBay,,7,Open bay/harbor,Y,Y,6.7009702,Newport Bay,,,,,,,,,,,,,,,,,,,,,,,
+NinosChannelSB_NEW,22,1,Small creek,N,Y,0.0006528,NA,1,Small creek,Gaviota Coast,1.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+OceansideHarbor,89,7,Open bay/harbor,Y,N,0.892605,Los Angeles River,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+OrmondBeach,34,6,Fragmented river valley estuary,N,Y,0.190492,Ormond Beach,5,Large river valley estuary,Ventura Coast,1.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,7.11,113.2165605,Extrapolated,2,0,0,57.14285714,0,0,2
+Palisades_NEW,44,1,Small creek,N,Y,0.0033313,Palisades,NA,NA,Santa Monica Bay,2.3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+Panochas_NEW,5,1,Small creek,N,N,0.0010715,Panochas,1,Small creek,Gaviota Coast,2.5,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+PendletonEstuary1_NEW,87,2,Small lagoon,N,N,0.0147809,Pendleton Estuary 1,2,Small lagoon,San Diego Coast,2.1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.23,55.81395349,1.55,0.21,2
+PendletonEstuary2_NEW,86,1,Small creek,N,N,0.0022499,Pendleton Estuary 2,NA,NA,San Diego Coast,2.7,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+RanchoReal_NEW,4,1,Small creek,N,N,0.0006009,Rancho Real,1,Small creek,Gaviota Coast,2.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+RedondoBeachKingHarbor,50,7,Open bay/harbor,Y,N,0.423815,NA,NA,NA,Santa Monica Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+Refugio_NEW,11,1,Small creek,N,N,0.0021589,Refugio,1,Small creek,Gaviota Coast,2.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.215,0.12,55.81395349,0.69,0.12,2
+RinconCreek,27,1,Small creek,N,N,0.0045045,Rincon Creek,1,Small creek,Ventura Coast,1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.215,0.12,55.81395349,0.69,0.12,2
+SanBuenaVentura,29,2,Small lagoon,N,Y,0.0005423,NA,1,Small creek,Ventura Coast,2.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.23,53.48837209,1.55,0.21,2
+SanDiegoBay,101,7,Open bay/harbor,Y,N,42.5847015,San Diego Bay,7,Open bay/harbor,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+SanDiegoRiver,100,5,Large river valley estuary,Y,Y,1.15171,Mission Bay,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.62,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+SanDieguito_NEW,96,5,Large river valley estuary,N,N,2.54146,San Dieguito Lagoon,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.62,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+SanElijo,95,5,Large river valley estuary,N,N,2.05797,San Elijo Lagoon,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.62,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+SanGabrielRiver_NEW,62,6,Fragmented river valley estuary,Y,Y,0.553291,Alamitos Bay,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+SanJuanCreek,78,3,Intermittently open estuary,Y,Y,0.0287332,San Juan Capistrano River,3,Intermittently open estuary,San Diego Coast,1.6,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+SanLuisReyEstuary,90,3,Intermittently open estuary,Y,N,0.151473,San Luis Rey River,3,Intermittently open estuary,San Diego Coast,1.7,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+SanMateoLagoon,80,3,Intermittently open estuary,N,N,0.157364,San Mateo Creek,3,Intermittently open estuary,San Diego Coast,1.1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0.42,0.24,57.14285714,1.41,0.24,2
+SanOnofreCreek,81,3,Intermittently open estuary,N,N,0.013987,San Onofre Creek,3,Intermittently open estuary,San Diego Coast,2.4,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0.42,0.24,57.14285714,1.41,0.24,2
+SantaAnaRiver,70,6,Fragmented river valley estuary,Y,Y,0.538813,Santa Ana River Mouth,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+SantaAnaRiverWetlands,71,6,Fragmented river valley estuary,Y,N,0.34699,Santa Ana River Mouth,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+SantaAnita_NEW,6,1,Small creek,N,N,0.0027792,Santa Anita,1,Small creek,Gaviota Coast,1.9,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+SantaBarbaraHarbor,20,7,Open bay/harbor,Y,N,0.221554,NA,NA,NA,Gaviota Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.32,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+SantaClaraRiver,31,6,Fragmented river valley estuary,N,N,1.1530499,Santa Clara  River,5,Large river valley estuary,Ventura Coast,2.1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.62,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+SantaMargaritaEstuary,88,5,Large river valley estuary,N,N,1.63705,Santa Margarita,5,Large river valley estuary,San Diego Coast,1,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.62,3.04,83.97790055,Extrapolated,2,0,0,NA,0,0,2
+Shorecliff_NEW,73,1,Small creek,N,N,0.0012416,Shorecliff,1,Small creek,San Pedro Bay,3.5,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2
+SouthSanDiegoBay_Otay,103,3,Intermittently open estuary,N,N,5.5792499,San Diego Bay,7,Open bay/harbor,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+SweetwaterMarsh_ChulaVista,102,3,Intermittently open estuary,N,N,3.0255101,San Diego Bay,7,Open bay/harbor,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.65,0,0,Measured,1,0,0,NA,0,0,2
+TalbertMarsh_NEW,69,6,Fragmented river valley estuary,Y,Y,0.634954,Santa Ana River Mouth,5,Large river valley estuary,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+TecolateCanyonCreek,14,1,Small creek,N,N,0.0020215,Tecolate Canyon Creek,1,Small creek,Gaviota Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+TijuanaRiverEstuary,104,5,Large river valley estuary,N,N,3.6699901,Tijuana Estuary,5,Large river valley estuary,San Diego Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.9,6.19,89.71014493,Measured,1,0,0,NA,0,0,2
+TopangaCreek,43,1,Small creek,N,N,0.0026448,Topanga Canyon,1,Small creek,Santa Monica Bay,2.3,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+Trancas,38,1,Small creek,N,N,0.0071999,Trancas,1,Small creek,Santa Monica Bay,2.7,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0.43,0.24,55.81395349,1.38,0.24,2
+UCSBLagoon,17,4,Large perenially-open lagoon,N,N,0.124265,UCSB Lagoon,4,Large perenially-open lagoon,Gaviota Coast,3.2,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,6.28,7.11,113.2165605,Extrapolated,2,0,0,NA,0,0,2
+VenturaHarbor,30,7,Open bay/harbor,Y,N,0.67322,Santa Clara  River,5,Large river valley estuary,Ventura Coast,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,1.38,2.93,88.25301205,Extrapolated,2,0,0,NA,0,0,2
+VenturaRiverEstuary_BEST_GUESS,28,3,Intermittently open estuary,N,N,0.217864,Ventura River,5,Large river valley estuary,Ventura Coast,0.7,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,3.63,NA,NA,Extrapolated,2,0,0,NA,0,0,2
+WintersburgChannel,66,1,Small creek,N,Y,0.0459337,Bolsa Chica,4,Large perenially-open lagoon,San Pedro Bay,0,12.2,6.1,16.6,8.3,3,-1.5,1.3,3,0,NA,NA,No Data,3,0,0,NA,0,0,2

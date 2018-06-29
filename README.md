@@ -23,6 +23,9 @@ The code in the model consists of two parts. In part 1, we read in **SLR_Model_I
 
 To run the model script in R studio, ensure your working directory and output directory are correct, select the entire script `cntl+a` and click `run`.
 
+## Suggested Citation
+Doughty, C.L., Southern California Wetlands Recovery Project Regional Strategy Update - Sea Level Rise Model (scwrp-rsu-slr-model), (2018), GitHub repository, https://github.com/cldoughty/scwrp-rsu-slr-model
+
 ## License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
